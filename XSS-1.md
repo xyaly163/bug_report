@@ -2,6 +2,8 @@
 
 BUG_Author: Xue Yue
 
+Website source address:https://www.sourcecodester.com/php/11743/monitoring-students-cyber-accounts.html
+
 Vulnerability url: /MSCAB/modules/balance/index.php?view=balancelist
 
 POST parameter 'id' exists XSS vulnerability
