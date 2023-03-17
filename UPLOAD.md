@@ -1,4 +1,4 @@
-# Simple Music Player v1.0 by oretnom23 has arbitrary file upload
+# Simple Music Player v1.0 has arbitrary file upload
 
 BUG_Author: Xue Yue
 
