@@ -1,4 +1,4 @@
-# Monitoring of Students Cyber Accounts System v1.0 has Cross-site scripting (reflected)
+# Monitoring of Students Cyber Accounts System v1.0 has SQL injection
 
 BUG_Author: Xue Yue
 
