@@ -10,8 +10,6 @@ post form-data parameter 'filename' exists arbitrary file upload
 
 Steps to reproduce
 
-Steps to reproduce
-
 1.Click on + Add
 
 2.Upload the picture Trojan horse,and append the file suffix .php through BurpSuite
