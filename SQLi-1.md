@@ -1,8 +1,4 @@
-# Monitoring of Students Cyber Accounts System v1.0 has SQL injection
-
 BUG_Author: Xue Yue
-
-Website source address:https://www.sourcecodester.com/php/11743/monitoring-students-cyber-accounts.html
 
 Vulnerability url: /MSCAB/login.php
 
