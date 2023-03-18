@@ -1,8 +1,4 @@
-# Simple Music Player v1.0 has arbitrary file upload
-
 BUG_Author: Xue Yue
-
-vendors:https://www.sourcecodester.com/php/15194/simple-music-player-php-and-jquery-free-source-code.html
 
 Vulnerability url: /music_player/save_music.php
 
